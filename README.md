@@ -6,3 +6,4 @@ ERC-721
 2) npm install -g truffle
 3) https://metamask.io/
 4) https://github.com/OpenZeppelin/openzeppelin-contracts
+5) npm install @openzeppelin/contracts
